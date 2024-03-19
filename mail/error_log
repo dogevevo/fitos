@@ -1,0 +1,8 @@
+[12-Apr-2023 16:14:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home1/foxardia/ramirezlandscapings.com/mail/contact.php:35
+Stack trace:
+#0 {main}
+  thrown in /home1/foxardia/ramirezlandscapings.com/mail/contact.php on line 35
+[19-Apr-2023 15:03:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home1/foxardia/ramirezlandscapings.com/mail/contact.php:35
+Stack trace:
+#0 {main}
+  thrown in /home1/foxardia/ramirezlandscapings.com/mail/contact.php on line 35
